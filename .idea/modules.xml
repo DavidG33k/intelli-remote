@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpeechToText.iml" filepath="$PROJECT_DIR$/SpeechToText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpeechToText-master.iml" filepath="$PROJECT_DIR$/.idea/modules/SpeechToText-master.iml" group="SpeechToText-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SpeechToText-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SpeechToText-master-app.iml" group="SpeechToText-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
